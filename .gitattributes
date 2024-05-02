@@ -1,0 +1,8 @@
+mypaint-brush.jpg filter=lfs diff=lfs merge=lfs -text
+mypaint-panel.jpg filter=lfs diff=lfs merge=lfs -text
+wrap-background.png filter=lfs diff=lfs merge=lfs -text
+mypaint9-1-panel.psd filter=lfs diff=lfs merge=lfs -text
+1_mypaint-9-1-homepage.jpg filter=lfs diff=lfs merge=lfs -text
+mypaint9-1-panel.jpg filter=lfs diff=lfs merge=lfs -text
+mypaint9-1-stroke.jpg filter=lfs diff=lfs merge=lfs -text
+*.gif filter=lfs diff=lfs merge=lfs -text
